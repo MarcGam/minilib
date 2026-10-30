@@ -26,7 +26,7 @@ GameLib wraps the HTML5 `<canvas>` in a few easy-to-use classes: you create a ga
 Once the repository is published on GitHub and a release/tag (e.g. `v1.0.0`) has been created:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/YOUR-USERNAME/YOUR-REPO@1.0.0/gamelib.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/MarcGam/minilib/gamelib.js"></script>
 ```
 
 > Replace `YOUR-USERNAME` and `YOUR-REPO` with your own. Pinning the version (`@1.0.0`) is recommended so that future changes do not break existing pages.
