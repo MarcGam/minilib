@@ -29,8 +29,6 @@ Once the repository is published on GitHub and a release/tag (e.g. `v1.0.0`) has
 <script src="https://cdn.jsdelivr.net/gh/MarcGam/minilib/gamelib.js"></script>
 ```
 
-> Replace `YOUR-USERNAME` and `YOUR-REPO` with your own. Pinning the version (`@1.0.0`) is recommended so that future changes do not break existing pages.
-
 ### Local file
 
 Download `gamelib.js` and include it in your page:
