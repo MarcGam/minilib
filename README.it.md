@@ -41,7 +41,7 @@ Scarica `gamelib.js` e includilo nella tua pagina:
 <!DOCTYPE html>
 <html>
 <body>
-<script src="https://cdn.jsdelivr.net/gh/TUO-UTENTE/TUO-REPO@1.0.0/gamelib.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/MarcGam/minilib/gamelib.js"></script>
 <script>
   const game = new GameCanvas(800, 600, '#87CEEB');
 
